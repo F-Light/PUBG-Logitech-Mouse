@@ -10,7 +10,6 @@ m4_key = 11
 
 --scar-l  on/off
 scar_key = 10
-scar_key = 10
 
 --ump9* or p92  on/off
 ump9_key = 7
@@ -19,21 +18,21 @@ ump9_key = 7
 uzi_key = 8
 
 --mini14  on/off
-mini_key = 0
+mini_key = nil
 
 --alloff：
 close_key = 6
 
---Invalid bigjump_key = 0
+--Invalid bigjump_key = nil
 
 --grenade on/off
-grenade_key = 0
+grenade_key = nil
 
 --一键横车按键：
-transverseparking_key = 0
+transverseparking_key = nil
 
 --按住荡伞按键:
-flutter_key = 0
+flutter_key = nil
 
 --自动右倾开关:
 rightdeviation_key = 9
