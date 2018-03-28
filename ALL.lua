@@ -43,9 +43,9 @@ rightdeviation_key = 9
 --2,4倍镜右键按住开镜时自动屏息开关
 shift = true
 
---2倍镜开关 
+--2倍镜开关 key_numlock on/off
 twoon = true
---4倍镜开关
+--4倍镜开关  key_capslock on/off
 fouron = true
 
 --扩容自动换弹开关
