@@ -1,3 +1,7 @@
+--1920*1080
+--1920*1080
+--1920*1080
+
 
 --akm*  or groza mini14 sks on/off
 akm_key = 4
