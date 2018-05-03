@@ -16,3 +16,4 @@
 #### 4.下载打开lua文件 Ctrl+A→→Ctrl+C→→Ctrl+V  
 ![alt](https://github.com/F-Light/PUBG-Logitech-Mouse/blob/master/img/20180504000531.jpg)  
 # 键位修改  
+![alt](https://github.com/F-Light/PUBG-Logitech-Mouse/blob/master/img/20180504003151.png)  
