@@ -24,7 +24,7 @@ uzi_key = 8
 --mini14  on/off
 mini_key = nil
 
---alloff：
+--all gun off：
 close_key = 6
 
 --Invalid bigjump_key = nil
