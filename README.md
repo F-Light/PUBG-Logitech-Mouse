@@ -1,5 +1,7 @@
 ### 没时间调试位移表  
-请根据需要自行添加变量或者直接修改全局变量。
+请根据需要自行添加变量或者直接修改全局变量。 
+- 现已停止维护。
+- This repo is being deprecated
 ## Logitech-Mouse-Anti-Recoil-Script  
     绝地求生罗技鼠标宏  
 #  AT YOUR OWN RISK  
