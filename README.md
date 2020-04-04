@@ -1,7 +1,7 @@
-### 不支持新的logitech G HUB 请下载旧版驱动 
+## 不支持新的logitech G HUB 请下载旧版LGS驱动 
 请根据需要自行添加变量或者直接修改全局变量。 
 - 现已停止维护。
-- This repo is being deprecated
+- ### This repo is being deprecated
 ## Logitech-Mouse-Anti-Recoil-Script  
     绝地求生罗技鼠标宏  
 #  AT YOUR OWN RISK  
